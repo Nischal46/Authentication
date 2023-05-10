@@ -1,4 +1,4 @@
 bkend/node_modules/*
-bkend/config.env/*
+bkend/config.env
 
 frontend/node_modules/*
